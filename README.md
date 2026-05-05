@@ -56,5 +56,5 @@ The application features a rich graphical interface with custom backgrounds and 
 
 
 ![image alt]()
-![image alt]()
+![image alt](https://github.com/lodhajay99-lang/Inventory/blob/363ad7e1677ae1890a00d3a8dc433863639d2bc6/Screenshot%202026-05-05%20141721.png)
 ![image alt]()

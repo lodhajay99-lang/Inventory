@@ -53,3 +53,8 @@ A comprehensive Java-based desktop application designed for small to medium-size
 ## Screenshots & UI
 
 The application features a rich graphical interface with custom backgrounds and animated elements (GIFs) to provide an interactive user experience for managing daily billing operations.
+
+
+![image alt]()
+![image alt]()
+![image alt]()

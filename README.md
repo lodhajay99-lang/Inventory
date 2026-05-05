@@ -55,6 +55,6 @@ A comprehensive Java-based desktop application designed for small to medium-size
 The application features a rich graphical interface with custom backgrounds and animated elements (GIFs) to provide an interactive user experience for managing daily billing operations.
 
 
-![image alt]()
+![image alt](https://github.com/lodhajay99-lang/Inventory/blob/3fc669ed2ccd00e0e2467aece79164d90d7dfc2e/Screenshot%202026-05-05%20141759.png)
 ![image alt](https://github.com/lodhajay99-lang/Inventory/blob/363ad7e1677ae1890a00d3a8dc433863639d2bc6/Screenshot%202026-05-05%20141721.png)
 ![image alt]()
